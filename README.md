@@ -1,5 +1,5 @@
-#Logs_Analysis_Project
-##This project is  for generating report from fetching the data  from news database which includes three tables articles,authors,log
+#catalog project
+##This project is a website showing video games category with their games for each category, allowing athourized user to add, delete and update their items and category  
 
 ##In order to run this project you have to follow this steps:
 1. you nedd to have virtual machine installed in your PC, so install VirtualBox
